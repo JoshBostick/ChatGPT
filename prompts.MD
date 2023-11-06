@@ -1,4 +1,5 @@
-What is the difference between javascript and Java
+What is the difference between javascript and Java?
+
 JavaScript and Java are two distinct programming languages with different purposes, despite their somewhat similar names. Here are some key differences between JavaScript and Java:
 
 Purpose:
